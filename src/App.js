@@ -48,7 +48,7 @@ export default function App() {
               <Switch>
                 <Route exact path="/" component={Home} />
                 <Route path="/politica" component={Politics} />
-                <Redirect to="/" />
+                <Redirect to="/politica" />
               </Switch>
             </Grid>
           </div>
