@@ -75,10 +75,11 @@ const Politics = () => {
           Datos locales
         </Typography>
         <Typography align="center" gutterBottom>
-          Mis aplicaciones podrian a llegar a guardar data local para mantener
-          su estado, estos datos generalmente sn json encriptados que solo
-          deberia entender mi aplicacion para su correcto funcionamiento. en
-          juegos podria ser estadisticas del usuario puntos .etc
+          Mis aplicaciones podrian a llegar a guardar datos de formar local en
+          su dispositivo para mantener su estado, estos datos generalmente son
+          archivos json encriptados que solo deberia entender mi aplicacion para
+          su correcto funcionamiento. en juegos podria ser estadisticas del
+          usuario puntos .etc
         </Typography>
         <Typography align="center" variant="h6" component="h1" gutterBottom>
           Seguridad
